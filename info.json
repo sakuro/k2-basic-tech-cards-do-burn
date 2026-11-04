@@ -3,9 +3,11 @@
   "version": "0.0.1",
   "title": "K2 Basic Tech Cards Do Burn",
   "author": "sakuro",
-  "description": "K2 Basic Tech Cards Do Burn",
+  "description": "Makes Krastorio 2's basic tech card burnable, with a fuel value derived from the wood in its recipe.",
   "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.1"
+    "base >= 2.1",
+    "Krastorio2",
+    "~ wood-still-burns >= 0.6.0"
   ]
 }
