@@ -8,6 +8,6 @@ Makes [Krastorio 2](https://mods.factorio.com/mod/Krastorio2)'s basic tech card 
 
 ## License
 
-GNU Lesser General Public License v3.0 (LGPLv3). See `LICENSE.txt`.
+[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html)
 
-The thumbnail includes the basic tech card icon from [Krastorio 2 Assets](https://mods.factorio.com/mod/Krastorio2Assets) (LGPLv3) and the fire animation from Factorio's base game graphics.
+The thumbnail includes the basic tech card icon from [Krastorio2Assets](https://codeberg.org/raiguard/Krastorio2Assets) (LGPL-3.0).
