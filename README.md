@@ -6,11 +6,6 @@ Generated from [sakuro/factorio-mod-scaffold](https://github.com/sakuro/factorio
 
 Makes [Krastorio 2](https://mods.factorio.com/mod/Krastorio2)'s basic tech card burnable. The fuel value is derived from the wood in the card's recipe by [Wood Still Burns](https://mods.factorio.com/mod/wood-still-burns), which this MOD registers the item with (see its `EXTENDING.md`).
 
-## Requirements
-
-- Krastorio 2
-- Wood Still Burns 0.6.0 or later
-
 ## License
 
 MIT
