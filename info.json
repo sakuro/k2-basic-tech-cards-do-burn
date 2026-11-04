@@ -1,0 +1,11 @@
+{
+  "name": "k2-basic-tech-cards-do-burn",
+  "version": "0.0.1",
+  "title": "K2 Basic Tech Cards Do Burn",
+  "author": "sakuro",
+  "description": "K2 Basic Tech Cards Do Burn",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1"
+  ]
+}
