@@ -4,6 +4,10 @@
 
 Makes [Krastorio 2](https://mods.factorio.com/mod/Krastorio2)'s basic tech card burnable. The fuel value is derived from the wood in the card's recipe by [Wood Still Burns](https://mods.factorio.com/mod/wood-still-burns), which this MOD registers the item with (see its `EXTENDING.md`).
 
+## Notes
+
+Krastorio 2 gives wooden chests and small electric poles fuel values of its own, which the base game does not. Wood Still Burns skips items that already have a fuel value, so with Krastorio 2 loaded neither it nor this MOD changes them.
+
 ## License
 
 [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html)
